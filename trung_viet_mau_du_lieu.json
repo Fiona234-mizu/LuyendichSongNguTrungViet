@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "folders": [
+    {
+      "id": "hsk1",
+      "name": "Giáo trình HSK 1",
+      "settings": {"speed": 0.8, "repeat": 3},
+      "lessons": [
+        {
+          "id": "hsk1-001",
+          "title": "Chào hỏi",
+          "sentences": [
+            {"id": "s1", "chinese": "你好！", "pinyin": "Nǐ hǎo!", "vietnamese": "Xin chào!", "audio": ""}
+          ],
+          "vocabulary": [
+            {"id": "v1", "hanzi": "你好", "pinyin": "nǐ hǎo", "meaning": "xin chào", "audio": "", "example": "你好！", "example_vi": "Xin chào!", "example_audio": ""}
+          ],
+          "grammar": [
+            {"id": "g1", "title": "你好", "explanation": "Cách chào hỏi thông dụng.", "audio": "", "example": "你好！", "example_vi": "Xin chào!", "example_audio": ""}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "boya1",
+      "name": "Giáo trình Boya – Sơ cấp",
+      "settings": {"speed": 1.5, "repeat": 2},
+      "lessons": []
+    }
+  ]
+}
